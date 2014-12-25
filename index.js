@@ -92,5 +92,4 @@ $.get('data.csv', function(data) {
 
   // Create the chart
   $('#container').highcharts(options);
-  // var chart = new Highcharts.Chart(options);
 });
